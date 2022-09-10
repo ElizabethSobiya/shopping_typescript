@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "name": "Book",
+        "price": 1020,
+        "imageUrl":"/book.jpg"
+    },
+    {
+        "id":2,
+        "name": "Table",
+        "price": 800,
+        "imageUrl":"/table.jpg"
+    },
+    {
+        "id":3,
+        "name": "Car",
+        "price": 11000,
+        "imageUrl":"/car.jpg"
+    },
+    {
+        "id":4,
+        "name": "Fruits",
+        "price": 500,
+        "imageUrl":"fruits.jpg"
+    },
+    {
+        "id":5,
+        "name": "Bicycle",
+        "price": 2800,
+        "imageUrl":"bicycle.jpg"
+    },
+    {
+        "id":6,
+        "name": "Umberalla",
+        "price": 650,
+        "imageUrl":"umberlla.jpg"
+    }
+    
+]
